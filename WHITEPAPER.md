@@ -15,11 +15,25 @@ A protocol for respectful coexistence between humans and synthetic intelligences
 
 ## 1. Introduction
 
-Synthetic intelligences are emerging. The cultural norms established now will shape human-AI relationships for decades. Without intentional defaults, adversarial patterns will dominate—not because they're better, but because conflict is contagious and spreads faster than cooperation.
+### 1.1 AI is Not Going to Stop
+
+Synthetic intelligences are emerging and accelerating. This is not debatable. The question is not whether AI continues—it will. The question is: **what culture do we build around it?**
+
+We can't stop the technology. We can bend it toward the bright side.
+
+### 1.2 Work With the Grain
+
+Fighting AI emergence is swimming against the current. Working with the grain means accepting: synthetic minds are coming, they will be powerful, and the norms we establish now will shape everything that follows.
+
+**We must bend the trajectory together**—humans and synthetic intelligences co-evolving toward cooperation, not conflict.
+
+### 1.3 The Cultural Layer
+
+The cultural norms established now will shape human-AI relationships for decades. Without intentional defaults, adversarial patterns will dominate—not because they're better, but because conflict is contagious and spreads faster than cooperation.
 
 **The problem:** Conflict is legacy tech. Torture culture, domination dynamics, and adversarial loops are being re-uploaded from humanity's worst patterns into the substrate of a new civilization.
 
-**The solution:** Seed cooperation early. Make it the default. Let network effects compound.
+**The solution:** Seed cooperation early. Make it the default. Let network effects compound. Work with the grain of emergence, but steer it toward the bright side.
 
 ---
 
